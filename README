@@ -3,7 +3,8 @@
 	Contact: lizoyu1@gmail.com
 --------------------------------
 
-This is the Bayes classifier for Gaussian pattern classes, extended from a part of the project 'Gait 
-recognization using Kinect' on class Human Motion Analysis. Details of the function is in the .m file.
+This is a sorting algorithm appeared in the book 'What Color is Your Parachute?'. It's used to determine the
+importance of a list of things by comparing them one by one.
 
-Reference: 'Digital Image Processing 3/e' by Rafael C. Gonzalez and Richard E. Woods.
+Reference: 'What Color is Your Parachute? 2014: A Practical Manual for Job-Hunters & Career-Changers' 
+	by Dick Bolles.
